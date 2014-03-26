@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\firstController.js">
+    <Files>
+      <File FileName="Assets\MouseLook.js" Line="35" Column="48" />
+      <File FileName="Assets\firstController.js" Line="43" Column="48" />
+      <File FileName="Assets\PlaneController.js" Line="11" Column="36" />
+      <File FileName="Assets\Restart.js" Line="9" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
